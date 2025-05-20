@@ -31,6 +31,16 @@ body {
   font-style: italic;
 }
 
+.coming-soon {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1rem;
+  color: #ffffff;
+  font-style: normal;
+  margin-top: 15px;
+  text-align: center;
+}
+
+
 .navbar {
   display: flex;
   justify-content: center;
