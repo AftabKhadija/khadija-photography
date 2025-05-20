@@ -31,12 +31,6 @@ body {
   font-style: italic;
 }
 
-.hero-text2 p {
-  font-size: 0.5rem;
-  color: #FFFFFF;
-  margin-top: 5px;
-}
-
 .navbar {
   display: flex;
   justify-content: center;
