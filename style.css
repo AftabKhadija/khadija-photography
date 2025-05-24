@@ -31,14 +31,15 @@ body {
   font-style: italic;
 }
 
-.coming-soon P {
+.coming-soon {
   font-family: 'Libre Baskerville', serif;
-  font-size: 1rem;
+  font-size: 0.9rem; /* smaller font size */
   color: #ffffff;
-  font-style: normal;
+  font-style: normal; /* removes italic */
   margin-top: 10px;
   text-align: center;
 }
+
 
 
 .navbar {
