@@ -31,12 +31,12 @@ body {
   font-style: italic;
 }
 
-.coming-soon {
+.coming-soon P {
   font-family: 'Libre Baskerville', serif;
   font-size: 1rem;
   color: #ffffff;
   font-style: normal;
-  margin-top: 15px;
+  margin-top: 10px;
   text-align: center;
 }
 
